@@ -25,4 +25,4 @@ def new_func():
     pass
 
 
-#edited
+print("edited")
