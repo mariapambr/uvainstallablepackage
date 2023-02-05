@@ -23,3 +23,6 @@ def space_compress(stocomp):
 
 def new_func():
     pass
+
+
+#edited
