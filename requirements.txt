@@ -1,1 +1,1 @@
-git+https://git@github.com/mariapambr/uvainstallablepackage.git@v0.0.1
+pytest
