@@ -1,6 +1,6 @@
 import pytest
 import sys
-sys.path.append('.')
+sys.path.append("sys.path.append("/uvainstallablepackage/shared")
 import shared as sh
 
 def test_clean_string():
