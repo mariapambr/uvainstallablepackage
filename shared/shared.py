@@ -22,4 +22,4 @@ def space_compress(stocomp):
     return comp.strip()
 
 def new_func():
-    print("edited")
+    print("This function was made in v0.0.0")
