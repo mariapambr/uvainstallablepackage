@@ -23,3 +23,6 @@ def space_compress(stocomp):
 
 def new_func():
     print("This function was made in v0.0.0")
+    
+def test_square(input_value, expected_output):
+    assert input_value**2 == expected_output
