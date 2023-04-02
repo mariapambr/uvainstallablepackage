@@ -28,5 +28,5 @@ def test_platform():
     assert False
 
 ## for circleCI test    
-def test_dummy_new():
-    assert 1 == 1
+def test_square(input_value, expected_output):
+    assert input_value**2 == expected_output
