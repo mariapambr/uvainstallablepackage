@@ -26,3 +26,7 @@ def test_skip():
 def test_platform():
     print("My platform is", sys.platform)
     assert False
+
+## for circleCI test    
+def test_dummy_new():
+    assert 1 == 1
